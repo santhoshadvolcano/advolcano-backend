@@ -1,0 +1,7 @@
+[
+    {
+        "action": "order_creation_failed",
+        "error": "Order amount less than minimum amount allowed",
+        "request_data": {}
+    }
+]
